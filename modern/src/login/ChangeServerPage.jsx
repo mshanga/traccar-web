@@ -16,7 +16,7 @@ const officialServers = [
   'https://demo3.traccar.org',
   'https://demo4.traccar.org',
   'https://server.traccar.org',
-  'http://localhost:8082',
+  'https://assets.wetrack.co.ke',
   'http://localhost:3000',
 ];
 
