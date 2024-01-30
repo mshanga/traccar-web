@@ -8,8 +8,8 @@ export default defineConfig(() => ({
   server: {
     port: 3000,
     proxy: {
-      '/api/socket': 'ws://34.140.219.54:8082',
-      '/api': 'https://34.140.219.54:8082',
+      '/api/socket': 'ws://localhost:8082',
+      '/api': 'https://localhost:8082',
     },
   },
   build: {
